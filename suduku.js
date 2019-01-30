@@ -19,7 +19,7 @@ const VALID_DIGITS = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 function checkSolution() {
 
-	// for horizontal row
+	
 	let rowMatch
 
 	for (let i = 0; i < GRID_SIZE; i++) {
