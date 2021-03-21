@@ -1,5 +1,11 @@
 # check-suduku-solution
-This is a simple checking to find out a suduku solution is correct or not
+This is a simple checking to find out a suduku solution is correct or not. Code is written in JavaScript with ESNext feature.
+
+## Features
+- Modular feature of ES6 is used
+- Latest features of JavaScript i.e. ES6, ES7, ES8 is used
+- A sample `solution/solution.gif` is used for the code for simplicity
+- *Ready to use* code to validate whether a solution is correct or not 
 
 ## Installation
 
@@ -15,4 +21,5 @@ Now check the solution:
 ```
 node suduku.js
 ```
+*tested with [Node JS](https://nodejs.org/en/docs/)*  
 
