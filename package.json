@@ -1,0 +1,21 @@
+{
+  "name": "check-suduku-solution",
+  "version": "1.0.0",
+  "description": "This is a simple checking to find out a suduku solution is correct or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anijitsahu/check-suduku-solution.git"
+  },
+  "keywords": [],
+  "author": "anijitsahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anijitsahu/check-suduku-solution/issues"
+  },
+  "homepage": "https://github.com/anijitsahu/check-suduku-solution#readme"
+}
