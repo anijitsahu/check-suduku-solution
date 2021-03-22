@@ -7,7 +7,7 @@ This is a simple checking to find out a suduku solution is correct or not. Code 
 
 <br/>
 
-- A sample `solution/solution.gif` is used for the code for simplicity
+- A sample `solution/solution.gif` is used for simplicity
 - *Ready to use* code to validate whether a solution is correct or not 
 
 ## Installation
